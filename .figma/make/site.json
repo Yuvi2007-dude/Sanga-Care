@@ -1,0 +1,14 @@
+{
+  "title": "Sanga Care",
+  "description": "This dementia-care app supports elderly users in NE India with a user-friendly interface for memory games, reminders, and family communication.",
+  "icons": {
+    "icon": "/favicon.png"
+  },
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
